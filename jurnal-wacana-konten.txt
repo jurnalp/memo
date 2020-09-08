@@ -5,3 +5,6 @@ WACANA KONTEN JURNAPRAKTIKUM
 -PHP
 -Java
 -Animation / graphic
+-Javascript
+ *native
+ *framework : react
