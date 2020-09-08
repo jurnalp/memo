@@ -9,5 +9,5 @@ WACANA KONTEN JURNAPRAKTIKUM
   *native
 -Animation / graphic
 -Javascript
-  *native
-  *framework
+ *native
+ *framework : react
