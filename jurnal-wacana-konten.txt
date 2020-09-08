@@ -3,5 +3,11 @@ WACANA KONTEN JURNAPRAKTIKUM
   *native : CRUD
   *framework
 -PHP
+  *native
+  *framework
 -Java
+  *native
 -Animation / graphic
+-Javascript
+  *native
+  *framework
