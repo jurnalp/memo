@@ -8,3 +8,6 @@ WACANA KONTEN JURNAPRAKTIKUM
 -Java
   *native
 -Animation / graphic
+-Javascript
+  *native
+  *framework
