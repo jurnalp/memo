@@ -1,0 +1,6 @@
+WACANA KONTEN JURNAPRAKTIKUM
+-Python
+  *native : CRUD
+  *framework
+-PHP
+-Java
