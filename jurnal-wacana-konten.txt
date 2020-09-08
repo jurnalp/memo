@@ -1,0 +1,4 @@
+WACANA KONTEN JURNAP
+-Python
+-PHP
+-Java
