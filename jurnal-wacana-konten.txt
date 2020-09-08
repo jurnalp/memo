@@ -4,10 +4,10 @@ WACANA KONTEN JURNAPRAKTIKUM
   *framework
 -PHP
   *native
-  *framework
+  *framework : laravel
 -Java
   *native
 -Animation / graphic
 -Javascript
  *native
- *framework : react
+ *framework : react, vue, angular
