@@ -4,3 +4,4 @@ WACANA KONTEN JURNAPRAKTIKUM
   *framework
 -PHP
 -Java
+-Animation / graphic
