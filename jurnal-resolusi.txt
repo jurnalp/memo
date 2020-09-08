@@ -1,8 +1,7 @@
 JURNAL RESOLUSI
 - Konsisten membuat konten 3x seminggu
-- Forum diskusi
 - Kolaborasi
 - Membuat Conference
 - Diferensiasi media :
-  ^ online
-  ^ offline
+  ^ online : github, youtube, facebook, instagram, tiktok
+  ^ offline : forum
