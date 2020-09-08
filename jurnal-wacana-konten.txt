@@ -1,4 +1,6 @@
-WACANA KONTEN JURNAP
+WACANA KONTEN JURNAPRAKTIKUM
 -Python
+  *native : CRUD
+  *framework
 -PHP
 -Java
